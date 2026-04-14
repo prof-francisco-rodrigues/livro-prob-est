@@ -4,5 +4,5 @@ Notebooks que acompanham o livro "Probabilidade e Estatística: teoria, simulaç
 
 Link para adquirir o livro: https://loja.uiclap.com/titulo/ua158988
 
-<img width="1280" height="1606" alt="image" src="https://github.com/user-attachments/assets/11d3a23f-7f70-4f8f-b5b9-f9cc146bddde" />
+<img width="425" height="627" alt="image" src="https://github.com/user-attachments/assets/6120a9e8-3f5b-4517-98d6-5cf79a0bf4b2" />
 
